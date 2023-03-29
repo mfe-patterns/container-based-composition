@@ -1,5 +1,7 @@
 # container-based-composition
-Composition by lazy loading the micro frontends bundled using Javascript inside a container app.
+### Composition by lazy loading the micro frontends bundled using Javascript inside a container app.
+
+#### Use node version 14.X.X for seamless working fo the application.
 
 ## To run container app
 
